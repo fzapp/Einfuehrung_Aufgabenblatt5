@@ -9,8 +9,9 @@ public class H1_main {
 		for (int i=0; i<myArray.length; i++) {
 			hilfsArray[i] = myArray[myArray.length-i-1]; 
 		}
+		myArray = hilfsArray;
 		
-		//myArray = hilfsArray;
+		
 		//for (int i=0; i<myArray.length; i++) {
 		//	System.out.println(myArray[i]); 
 		//}
