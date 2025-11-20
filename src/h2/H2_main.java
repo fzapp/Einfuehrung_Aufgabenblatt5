@@ -30,10 +30,10 @@ public class H2_main {
 		}
 		
 		
-		System.out.println(digits);
-		for (int l=0; l<a.length; l++) {
-			System.out.print(a[l] + " "); 
-		}
+		//System.out.println(digits);
+		//for (int l=0; l<a.length; l++) {
+		//	System.out.print(a[l] + " "); 
+		//}
 		// TODO Auto-generated method stub
 
 	}
